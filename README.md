@@ -1,5 +1,5 @@
 
-<table cellpadding="0" cellspacing="0"  style="width:900px;">
+<table cellpadding="0" cellspacing="0"  width="900">
 	<tr>
     	<td width="500">
         	12314
